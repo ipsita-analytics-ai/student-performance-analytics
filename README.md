@@ -48,3 +48,10 @@ The dataset contains student information such as:
 ## Key Insights
 
 The analysis helps identify patterns in student performance based on courses, cities, marks, and attendance.
+- Total students analyzed: 15
+- Overall average marks: 80.8
+- SQL had the highest average marks among the courses.
+- Delhi had the highest average marks among the cities.
+- 6 students scored above 80 marks.
+- 3 students scored above 90 marks and had attendance above 90%.
+- The analysis includes course-wise and city-wise performance comparisons.
